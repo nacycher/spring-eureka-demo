@@ -67,6 +67,7 @@
     <modules>
         <module>eureka-server-demo</module>
         <module>eureka-client-demo</module>
+        <module>eureka-client-consumer-demo</module>
     </modules>
 
 </project>
